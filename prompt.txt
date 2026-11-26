@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Catatan: bounty ini "The Self-Checkout Is Judging You" (u-motasimfuad-the-self-checkout-is-judging-you-b71130d6) — satu baris lucu maks 200 karakter dari sudut pandang mesin self-checkout yang menghakimi isi keranjang. Entry ditulis dengan skill brainstorming dulu untuk cari angle, lalu main.py stdlib-only yang menulis baris final ke /output/entry.txt.
